@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />]
-[<img align="left" alt="springcloud" width="26px" src="https://avatars.githubusercontent.com/u/7815877?s=200&v=4" />]
+[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][website]
+[<img align="left" alt="springcloud" width="26px" src="https://avatars.githubusercontent.com/u/7815877?s=200&v=4" />][website]
 [<img align="left" alt="spring" width="26px" src="https://avatars.githubusercontent.com/u/317776?s=200&v=4" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
@@ -41,9 +41,10 @@ Here are some ideas to get you started:
 [<img align="left" alt="k8s" width="26px" src="https://avatars.githubusercontent.com/u/13629408?s=200&v=4" />]
 [<img align="left" alt="docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />]
 
+<br />
 ### Cloud Platforms
-[<img align="left" alt="aws" width="26px" src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4" />]
-[<img align="left" alt="gcp" width="26px" src="https://avatars.githubusercontent.com/u/2810941?s=200&v=4" />]
+[<img align="left" alt="aws" width="26px" src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4" />][]
+[<img align="left" alt="gcp" width="26px" src="https://avatars.githubusercontent.com/u/2810941?s=200&v=4" />][]
 <br />
 <br />
 
@@ -51,3 +52,4 @@ Here are some ideas to get you started:
 [website]: https://sadanandarao.dev/
 [twitter]: https://twitter.com/sadanandarao
 [linkedin]: https://linkedin.com/in/sada-nandarao/
+[]:
