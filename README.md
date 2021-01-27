@@ -1,5 +1,5 @@
 ### Hi there, I'm sada 👋
-- 🌱 I’m currently learning Kafka, SpringCloud, Go 
+- 🌱 I’m currently learning Kafka, SpringCloud, Go, Terraform.
 - 🥅 2021 Goals: Start Contribute to Open Source projects.
 
 <!--
